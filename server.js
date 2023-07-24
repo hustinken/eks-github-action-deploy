@@ -75,7 +75,7 @@ function getPage(message) {
     + "\n"
     + "hr {\n"
     + "  margin: auto;\n"
-    + "  width: 40%;\n"
+    + "  width: 70%;\n"
     + "}\n"
     + "</style>\n"
     + "<body>\n"
